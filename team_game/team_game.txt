@@ -1,0 +1,6 @@
+Two classes: Player and Card
+Player contains the number of points for the player or players, possibly name, etc.
+Card is basically just a random function to return a card face/value
+
+Do statement: Input, get card, compare input to the new card, then lower points according to guess.
+    Maybe make a seperate function to check for a win?
