@@ -15,7 +15,8 @@ class card
 class points
 {
     int player = 300;
-    
+    int incorrect = 50;
+    int correct = 100;
 
 
 }
