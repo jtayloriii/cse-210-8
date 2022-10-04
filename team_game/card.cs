@@ -11,3 +11,11 @@ class card
         Console.WriteLine(cards[index]);
     }
 }
+
+class points
+{
+    int player = 300;
+    
+
+
+}
