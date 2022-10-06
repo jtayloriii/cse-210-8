@@ -14,7 +14,11 @@ class card
 
 class points
 {
-    
+    public points() {
+        var player = 300;
+
+
+    }
     int player = 300;
     int incorrect = 50;
     int correct = 100;
