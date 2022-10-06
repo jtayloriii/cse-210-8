@@ -13,7 +13,7 @@ class Program
         {
             Console.WriteLine($"The card is: {card_val}");
             Console.WriteLine("Hello, World!");
-
+            string input_ans = Console.ReadLine();
 
         }
 
