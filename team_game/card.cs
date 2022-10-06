@@ -12,11 +12,17 @@ class card
     }
 }
 
-class points
+class player
 {
-    int player = 300;
-    int incorrect = 50;
-    int correct = 100;
 
+    public player()  {
+        
+        int player = 300;
+        int incorrect = 50;
+        int correct = 100;
+
+
+
+    }
 
 }
