@@ -2,10 +2,10 @@
 {
     static void Main(string[] args)
     {
-        points player = new points();
+        points player = new player();
         card card_val = new card();
 
-        while (player_points != 0)
+        while (player > 0)
         {
             Console.WriteLine($"The card is: {card_val}");
             Console.WriteLine("Higher/Lower? [h/l]: ");
@@ -15,11 +15,11 @@
             {
                 card new_card = new card();
 
-                if (new_card.number < card_val.number)
+                if (card < new_card)
                 {
                     player_points -= 75;
                 }
-                if (new_card.number > card_val.number)
+                if (card > new_card)
                 {
                     player_points += 100;
                 }
@@ -30,11 +30,11 @@
             {
                 card new_card = new card();
 
-                if (new_card.number < card_val.number)
+                if (card < new_card)
                 {
                     player_points -= 75;
                 }
-                if (new_card.number > card_val.number)
+                if (card > new_card)
                 {
                     player_points += 100;
                 }
