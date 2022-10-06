@@ -2,7 +2,7 @@
 {
     static void Main(string[] args)
     {
-        player player_points = new points();
+        points player = new points();
         card card_val = new card();
 
         while (player_points != 0)
