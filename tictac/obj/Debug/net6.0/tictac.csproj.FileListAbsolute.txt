@@ -1,0 +1,5 @@
+/Users/jamestaylor/Documents/Github/cse-210-8/tictac/obj/Debug/net6.0/tictac.csproj.AssemblyReference.cache
+/Users/jamestaylor/Documents/Github/cse-210-8/tictac/obj/Debug/net6.0/tictac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamestaylor/Documents/Github/cse-210-8/tictac/obj/Debug/net6.0/tictac.AssemblyInfoInputs.cache
+/Users/jamestaylor/Documents/Github/cse-210-8/tictac/obj/Debug/net6.0/tictac.AssemblyInfo.cs
+/Users/jamestaylor/Documents/Github/cse-210-8/tictac/obj/Debug/net6.0/tictac.csproj.CoreCompileInputs.cache

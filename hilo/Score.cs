@@ -1,5 +1,5 @@
 class Score {
-    public int CurrentScore;
+    private int CurrentScore;
 
     public Score(int defaultScore) {
         CurrentScore = defaultScore;
