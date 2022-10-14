@@ -8,8 +8,7 @@ class Card {
         number = n;
     }
 
-    // Returns a description of the card based on its suit and number
-    public string Description() {
+    public string Name() {
         string nameOfCard = number.ToString();
         if (number == 1) {
             nameOfCard = "Ace";
@@ -24,6 +23,14 @@ class Card {
             nameOfCard = "King";
         }
 
-        return $"{nameOfCard} of {suit}s";
+    }
+
+    public bool IsHigher(Card otherCard) {
+        return this.number > otherCard.number;
+    }
+
+    // Returns a description of the card based on its suit and number
+    public string Description() {
+        return $"{name} of {suit}s";
     }
 }
