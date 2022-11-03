@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wakAcCMO8kt6UjBG1ZBB8pXncp6d41T/tUwwARj71U4XE5Zyi7oVTHxXYnA/tkABs6TBmo6Cby1U721WkFdrgg==",
+  "success": true,
+  "projectFilePath": "/Users/jamestaylor/Documents/Github/cse-210-8/raylib/raylib.csproj",
+  "expectedPackageFiles": [
+    "/Users/jamestaylor/.nuget/packages/raylib-cs/4.2.0.1/raylib-cs.4.2.0.1.nupkg.sha512",
+    "/Users/jamestaylor/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -31,6 +31,6 @@ class Card {
 
     // Returns a description of the card based on its suit and number
     public string Description() {
-        return $"{name} of {suit}s";
+        return $"{Name} of {suit}s";
     }
 }
