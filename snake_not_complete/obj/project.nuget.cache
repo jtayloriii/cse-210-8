@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "M4+wEO7aJ3Bmy0RZa8dpWdrGD2rdCWpt7QXgfWyn235jfBKXgoS4Vop/TY5Agaf97mvKVh3irxxKiKnqk5SQhw==",
+  "success": true,
+  "projectFilePath": "/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/poly day 2/snake_not_complete/Unit05.csproj",
+  "expectedPackageFiles": [
+    "/Users/laynemoseley/.nuget/packages/raylib-cs/3.7.0.1/raylib-cs.3.7.0.1.nupkg.sha512",
+    "/Users/laynemoseley/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
