@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/poly day 2/snake_not_complete/Unit05.csproj": {}
+    "/Users/jamestaylor/Documents/Github/cse-210-8/snake_not_complete/Unit05.csproj": {}
   },
   "projects": {
-    "/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/poly day 2/snake_not_complete/Unit05.csproj": {
+    "/Users/jamestaylor/Documents/Github/cse-210-8/snake_not_complete/Unit05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/poly day 2/snake_not_complete/Unit05.csproj",
+        "projectUniqueName": "/Users/jamestaylor/Documents/Github/cse-210-8/snake_not_complete/Unit05.csproj",
         "projectName": "Unit05",
-        "projectPath": "/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/poly day 2/snake_not_complete/Unit05.csproj",
-        "packagesPath": "/Users/laynemoseley/.nuget/packages/",
-        "outputPath": "/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/poly day 2/snake_not_complete/obj/",
+        "projectPath": "/Users/jamestaylor/Documents/Github/cse-210-8/snake_not_complete/Unit05.csproj",
+        "packagesPath": "/Users/jamestaylor/.nuget/packages/",
+        "outputPath": "/Users/jamestaylor/Documents/Github/cse-210-8/snake_not_complete/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/laynemoseley/.nuget/NuGet/NuGet.Config"
+          "/Users/jamestaylor/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

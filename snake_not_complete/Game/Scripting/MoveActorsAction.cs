@@ -22,10 +22,26 @@ namespace Unit05.Game.Scripting
     /// Constructs a new instance of MoveActorsAction.
     /// </summary>
 
+    class MoveActorsAction: Action {
+
+        public MoveActorsAction() {
+
+        }
+    
+
     // 3) Override the Execute(Cast cast, Script script) method. Use the following 
     //    method comment. You custom implementation should do the following:
     //    a) get all the actors from the cast
     //    b) loop through all the actors
     //    c) call the MoveNext() method on each actor.
+
+    public void Execute(Cast cast, Script script){
+        var actors = cast.GetAllActors();
+        foreach (var actor in actors){
+            actor.MoveNext();
+        }
+    }
+
+    }
 
 }
