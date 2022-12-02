@@ -1,64 +1,73 @@
-﻿class Program
+﻿
+class Program
 {
     static void Main(string[] args)
     {
-        points player = new player();
-        card card_val = new card();
+        Card pullCard = new Card();
+        Points player1 = new Points(300);
+        Guess guess1 = new Guess();
 
-        while (player > 0)
+        // Console.WriteLine($"Top card on the deck is: {pullCard.value}");
+        // Console.WriteLine($"Points = {player1.player}");
+    
+        while (player1.player > 0)
         {
-            Console.WriteLine($"The card is: {card_val}");
-            Console.WriteLine("Higher/Lower? [h/l]: ");
-            string input_ans = Console.ReadLine();
+            Console.WriteLine();
+            var oldCard = pullCard.newCard();
+            Console.WriteLine($"The card is: {oldCard}");
+            var newGuess = guess1.playerGuess();
+            var newCard = pullCard.newCard();
+            // Console.WriteLine($"Guess is: {newGuess}");
 
-            if (input_ans == "h")
+            if (newGuess == "h")
             {
-                card new_card = new card();
-
-                if (card < new_card)
-                {
-                    player_points -= 75;
-                }
-                if (card > new_card)
-                {
-                    player_points += 100;
-                }
-
+                if (newCard < oldCard)
+                    {
+                        player1.player -= 75;
+                        Console.WriteLine($"New card was = {newCard}");
+                        // Console.WriteLine($"Old card = {oldCard}");
+                    }
+                if (newCard > oldCard)
+                    {
+                        player1.player += 100;
+                        Console.WriteLine($"New card was = {newCard}");
+                        // Console.WriteLine($"Old card = {oldCard}");
+                    }
+            }
+            if (newGuess == "l")
+            {
+                if (newCard > oldCard)
+                    {
+                        player1.player -= 75;
+                        Console.WriteLine($"New card was = {newCard}");
+                        // Console.WriteLine($"Old card = {oldCard}");
+                    }
+                if (newCard < oldCard)
+                    {
+                        player1.player += 100;
+                        Console.WriteLine($"New card was = {newCard}");
+                        // Console.WriteLine($"Old card = {oldCard}");
+                    }
             }
 
-            else if (input_ans == "l")
-            {
-                card new_card = new card();
+        Console.WriteLine($"Your score is = {player1.player}");
 
-                if (card < new_card)
-                {
-                    player_points -= 75;
-                }
-                if (card > new_card)
-                {
-                    player_points += 100;
-                }
-            }
-            else 
-            {
-                Console.WriteLine("I hate you, go away.");
-            }
+        if (player1.player < 0) {
+            break;
         }
-        
-        Console.WriteLine("Good game!");
-        Console.WriteLine("Would you like to play again? [y/n] ");
-        string play_gen = Console.ReadLine();
 
-        if (play_gen == "y")
-        {
-            Main();
-        }
+        var likeContinue = guess1.continueGame();
+
+        if (likeContinue == "y")
+            {
+                Console.WriteLine($"Got here!");
+                continue;
+            }
         else 
-        {
-            return 0;
+            {
+                Console.WriteLine($"Breaking!");
+                break;
+            }
         }
-
-        DisplayBoard(board);
-        Console.WriteLine("Good game. Thanks for playing!");
     }
 }

@@ -10,7 +10,7 @@ using System.Collections.Generic;
 /// rather it highlights a straightforward way to solve the problem
 /// for a 3x3 game.
 /// </summary>
-class Program
+public class Program
 {
     static void Main(string[] args)
     {

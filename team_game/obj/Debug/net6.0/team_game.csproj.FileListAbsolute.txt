@@ -1,0 +1,15 @@
+/Users/jamestaylor/Documents/Github/cse-210-8/team_game/obj/Debug/net6.0/team_game.csproj.AssemblyReference.cache
+/Users/jamestaylor/Documents/Github/cse-210-8/team_game/obj/Debug/net6.0/team_game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamestaylor/Documents/Github/cse-210-8/team_game/obj/Debug/net6.0/team_game.AssemblyInfoInputs.cache
+/Users/jamestaylor/Documents/Github/cse-210-8/team_game/obj/Debug/net6.0/team_game.AssemblyInfo.cs
+/Users/jamestaylor/Documents/Github/cse-210-8/team_game/obj/Debug/net6.0/team_game.csproj.CoreCompileInputs.cache
+/Users/jamestaylor/Documents/Github/cse-210-8/team_game/bin/Debug/net6.0/team_game
+/Users/jamestaylor/Documents/Github/cse-210-8/team_game/bin/Debug/net6.0/team_game.deps.json
+/Users/jamestaylor/Documents/Github/cse-210-8/team_game/bin/Debug/net6.0/team_game.runtimeconfig.json
+/Users/jamestaylor/Documents/Github/cse-210-8/team_game/bin/Debug/net6.0/team_game.dll
+/Users/jamestaylor/Documents/Github/cse-210-8/team_game/bin/Debug/net6.0/team_game.pdb
+/Users/jamestaylor/Documents/Github/cse-210-8/team_game/obj/Debug/net6.0/team_game.dll
+/Users/jamestaylor/Documents/Github/cse-210-8/team_game/obj/Debug/net6.0/refint/team_game.dll
+/Users/jamestaylor/Documents/Github/cse-210-8/team_game/obj/Debug/net6.0/team_game.pdb
+/Users/jamestaylor/Documents/Github/cse-210-8/team_game/obj/Debug/net6.0/team_game.genruntimeconfig.cache
+/Users/jamestaylor/Documents/Github/cse-210-8/team_game/obj/Debug/net6.0/ref/team_game.dll

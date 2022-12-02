@@ -24,14 +24,14 @@ class Game {
             var guess = player.Guess();
 
             if (guess == "h") {
-                if (nextCard.IsHigher(CurrentCard)) {
+                if (nextCard.number > CurrentCard.number) {
                     score.CurrentScore += 100;
                 } else {
                     score.CurrentScore -= 75;
                 }
 
             } else if (guess == "l") {
-                if (CurrentCard.IsHigher(nextCard)) {
+                if (nextCard.number < CurrentCard.number) {
                     score.CurrentScore += 100;
                 } else {
                     score.CurrentScore -= 75;

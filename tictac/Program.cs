@@ -1,10 +1,6 @@
 ﻿// Tictactoe assignment, written by James Taylor
 
-using System;
-using System.Collections.Generic;
 
-void main()
-{
     string[] starting = {"1", "2", "3", "4", "5", "6", "7", "8", "9"};
     List<string> positions = new List<string>(starting);
     
@@ -49,7 +45,7 @@ void main()
     {
     Console.Write("Congrats Player 2!");       
     }
-}
+
 
 bool gameover()
 {
@@ -57,7 +53,7 @@ bool gameover()
     {
         return true;
     }
-    else if (positions[3] == positions[4] && (positions[4] == positions[5])
+    else if (positions[3] == positions[4] && positions[4] == positions[5])
     {
         return true;
     }

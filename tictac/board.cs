@@ -1,12 +1,13 @@
 class Board {
 
-    List<string> spaces = new List<string>():
+    List<string> spaces = new List<string>();
 
     public Board() {
         for (int i = 1; i <= 9; i += 1)
         {
             spaces.Add(i.ToString());
         }
+    }
 
     public void print() {
         Console.WriteLine($"{spaces[0]}|{spaces[1]}|{spaces[2]}");
@@ -17,4 +18,3 @@ class Board {
     }
 
     }
-}

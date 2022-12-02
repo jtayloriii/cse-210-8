@@ -1,27 +1,15 @@
-class card
+
+public class Card
 {
-    List<string> cards = new List<string>();
-    public card() {
-        for (int i = 1; i <= 13; i += 1)
-        {
-            cards.Add(i.ToString());
-        }
-    var random = new Random();
-        int index = random.Next(cards.Count);
-        Console.WriteLine(cards[index]);
+    public int value;
+
+    public Card() {
+        value = newCard();
     }
-}
 
-class points
-{
-    public points() {
-        var player = 300;
-
-
+    public int newCard() {
+        Random ranCard = new Random();
+        int randomCard = ranCard.Next(1, 13);
+        return randomCard;
     }
-    int player = 300;
-    int incorrect = 50;
-    int correct = 100;
-
-
 }
