@@ -1,4 +1,5 @@
-
+// these are for finding a new card, but they don't create a full deck as that
+// isn't a requirement...
 public class Card
 {
     public int value;
