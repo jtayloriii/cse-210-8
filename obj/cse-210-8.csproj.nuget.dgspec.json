@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jamestaylor/Documents/Github/cse-210-8/tictac/tictac.csproj": {}
+    "/Users/jamestaylor/Documents/Github/cse-210-8/cse-210-8.csproj": {}
   },
   "projects": {
-    "/Users/jamestaylor/Documents/Github/cse-210-8/tictac/tictac.csproj": {
+    "/Users/jamestaylor/Documents/Github/cse-210-8/cse-210-8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jamestaylor/Documents/Github/cse-210-8/tictac/tictac.csproj",
-        "projectName": "tictac",
-        "projectPath": "/Users/jamestaylor/Documents/Github/cse-210-8/tictac/tictac.csproj",
+        "projectUniqueName": "/Users/jamestaylor/Documents/Github/cse-210-8/cse-210-8.csproj",
+        "projectName": "cse-210-8",
+        "projectPath": "/Users/jamestaylor/Documents/Github/cse-210-8/cse-210-8.csproj",
         "packagesPath": "/Users/jamestaylor/.nuget/packages/",
-        "outputPath": "/Users/jamestaylor/Documents/Github/cse-210-8/tictac/obj/",
+        "outputPath": "/Users/jamestaylor/Documents/Github/cse-210-8/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jamestaylor/.nuget/NuGet/NuGet.Config"

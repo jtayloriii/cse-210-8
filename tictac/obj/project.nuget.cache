@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q4I39lbl8OP51DDuKLsB/91nHHQCgZS582hvlSVCGoN0qShuQMj2xKBvSKnxCtBAGtv66qbtx1ZRFyHuPZmI8g==",
+  "dgSpecHash": "jhoWM0bG21fd8XeNAbMpQBdx/sy2Uc38DyTEK4fEvRZclCwnE7wAfwdxc4qdd37oAnr+L7w/dFoLqiskh1g5tw==",
   "success": true,
-  "projectFilePath": "/Users/jamestaylor/Documents/Github/cse-210-8/tictac/tictac.csproj",
+  "projectFilePath": "/Users/jamestaylor/Documents/Github/cse-210-8/tictac2/tic-tac-toe.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

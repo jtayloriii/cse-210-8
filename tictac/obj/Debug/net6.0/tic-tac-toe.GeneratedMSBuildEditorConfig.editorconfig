@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = tictac
-build_property.ProjectDir = /Users/jamestaylor/Documents/Github/cse-210-8/tictac/
+build_property.RootNamespace = tic_tac_toe
+build_property.ProjectDir = /Users/jamestaylor/Documents/Github/cse-210-8/tictac2/

@@ -1,0 +1,15 @@
+/Users/jamestaylor/Documents/Github/cse-210-8/tictacnew/bin/Debug/net6.0/tictacnew
+/Users/jamestaylor/Documents/Github/cse-210-8/tictacnew/bin/Debug/net6.0/tictacnew.deps.json
+/Users/jamestaylor/Documents/Github/cse-210-8/tictacnew/bin/Debug/net6.0/tictacnew.runtimeconfig.json
+/Users/jamestaylor/Documents/Github/cse-210-8/tictacnew/bin/Debug/net6.0/tictacnew.dll
+/Users/jamestaylor/Documents/Github/cse-210-8/tictacnew/bin/Debug/net6.0/tictacnew.pdb
+/Users/jamestaylor/Documents/Github/cse-210-8/tictacnew/obj/Debug/net6.0/tictacnew.csproj.AssemblyReference.cache
+/Users/jamestaylor/Documents/Github/cse-210-8/tictacnew/obj/Debug/net6.0/tictacnew.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamestaylor/Documents/Github/cse-210-8/tictacnew/obj/Debug/net6.0/tictacnew.AssemblyInfoInputs.cache
+/Users/jamestaylor/Documents/Github/cse-210-8/tictacnew/obj/Debug/net6.0/tictacnew.AssemblyInfo.cs
+/Users/jamestaylor/Documents/Github/cse-210-8/tictacnew/obj/Debug/net6.0/tictacnew.csproj.CoreCompileInputs.cache
+/Users/jamestaylor/Documents/Github/cse-210-8/tictacnew/obj/Debug/net6.0/tictacnew.dll
+/Users/jamestaylor/Documents/Github/cse-210-8/tictacnew/obj/Debug/net6.0/refint/tictacnew.dll
+/Users/jamestaylor/Documents/Github/cse-210-8/tictacnew/obj/Debug/net6.0/tictacnew.pdb
+/Users/jamestaylor/Documents/Github/cse-210-8/tictacnew/obj/Debug/net6.0/tictacnew.genruntimeconfig.cache
+/Users/jamestaylor/Documents/Github/cse-210-8/tictacnew/obj/Debug/net6.0/ref/tictacnew.dll

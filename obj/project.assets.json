@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jamestaylor/Documents/Github/cse-210-8/tictac2/tic-tac-toe.csproj",
-      "projectName": "tic-tac-toe",
-      "projectPath": "/Users/jamestaylor/Documents/Github/cse-210-8/tictac2/tic-tac-toe.csproj",
+      "projectUniqueName": "/Users/jamestaylor/Documents/Github/cse-210-8/cse-210-8.csproj",
+      "projectName": "cse-210-8",
+      "projectPath": "/Users/jamestaylor/Documents/Github/cse-210-8/cse-210-8.csproj",
       "packagesPath": "/Users/jamestaylor/.nuget/packages/",
-      "outputPath": "/Users/jamestaylor/Documents/Github/cse-210-8/tictac2/obj/",
+      "outputPath": "/Users/jamestaylor/Documents/Github/cse-210-8/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jamestaylor/.nuget/NuGet/NuGet.Config"

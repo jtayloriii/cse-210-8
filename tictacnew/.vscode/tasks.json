@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/tic-tac-toe.csproj",
+                "${workspaceFolder}/tictacnew.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/tic-tac-toe.csproj",
+                "${workspaceFolder}/tictacnew.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/tic-tac-toe.csproj"
+                "${workspaceFolder}/tictacnew.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
