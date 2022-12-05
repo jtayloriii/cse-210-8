@@ -1,4 +1,4 @@
-class Jumper 
+class Jumper // Really just displaying the current "state" of our jumping friend...
 {
 
     public string first =  "    ___";
@@ -47,7 +47,7 @@ class Jumper
     }
 }
 
-class Word 
+class Word // things regarding the correct/key word for the game
 {
     public string getWord() 
     {
@@ -67,7 +67,7 @@ class Word
 
 }
 
-class Answer
+class Answer // showing the correct guess and the guess display line, not the original word
 {
     public List<string> parseWord(string word)
     {
@@ -100,7 +100,7 @@ class Answer
     }
 }
 
-class Guess 
+class Guess // getting the guess and keeping track of how many they got right/wrong
 {
     public int guessNum = 0;
     public int numRight = 0;
