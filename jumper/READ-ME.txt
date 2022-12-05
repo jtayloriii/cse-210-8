@@ -1,0 +1,8 @@
+For this assignment I used four overarching class types, Jumper, Guess, Answer, and Word. I then
+made various instances within them relevant to the superclass. Interestingly enough, this program 
+does NOT emulate the example where the letters for guessing, (and blank lines,) each have a space
+betweeen them, as I did not want to add spaces everywhere and double the index to keep the line in 
+one string. (That could have worked, but I AM lazy...) Also, this can't use words with the same 
+letter twice as it gets stuck on the first, instead of worrying about that though, I just used a 
+bunch of words without two of the same letters... You would never even think about it if I didn't 
+tell you though...

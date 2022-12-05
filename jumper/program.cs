@@ -15,7 +15,7 @@
         Console.WriteLine();
 
         string word = newWord.getWord();
-        Console.WriteLine(word);
+        // Console.WriteLine(word);
 
         List<string> parsedWord =  new List<string>();
         parsedWord = newAnswer.parseWord(word);
