@@ -14,7 +14,7 @@ namespace HelloWorld
             var Random = new Random();
 
             Raylib.InitWindow(ScreenWidth, ScreenHeight, "GameObject");
-            Raylib.SetTargetFPS(60);
+            Raylib.SetTargetFPS(40);
 
             while (!Raylib.WindowShouldClose())
             {
