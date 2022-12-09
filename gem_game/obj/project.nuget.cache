@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ntExY4XbBz7XInY+3F0UcaBN5KJb7blP0EnoROMRmIoiGEEmDUx4Y6e6/EkJSOVN0gDFxyHWrKV2XcSIA08RxQ==",
+  "dgSpecHash": "FeczDPu1PNgW8ytoiSgeDk+Vrmms1dltG1zhwIRgJxtiY4r4fT5q6sNrTduBk5W5tEEPlmj89RMVZItWElmwgA==",
   "success": true,
   "projectFilePath": "/Users/jamestaylor/Documents/Github/cse-210-8/gem_game/gem_game.csproj",
-  "expectedPackageFiles": [
-    "/Users/jamestaylor/.nuget/packages/raylib-cs/4.0.0.1/raylib-cs.4.0.0.1.nupkg.sha512",
-    "/Users/jamestaylor/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

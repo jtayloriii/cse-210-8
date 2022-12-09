@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jamestaylor/Documents/Github/cse-210-8/gem_game/gem_game.csproj": {}
+    "/Users/jamestaylor/Documents/Github/cse-210-8/snake_complete/Unit05.csproj": {}
   },
   "projects": {
-    "/Users/jamestaylor/Documents/Github/cse-210-8/gem_game/gem_game.csproj": {
+    "/Users/jamestaylor/Documents/Github/cse-210-8/snake_complete/Unit05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jamestaylor/Documents/Github/cse-210-8/gem_game/gem_game.csproj",
-        "projectName": "gem_game",
-        "projectPath": "/Users/jamestaylor/Documents/Github/cse-210-8/gem_game/gem_game.csproj",
+        "projectUniqueName": "/Users/jamestaylor/Documents/Github/cse-210-8/snake_complete/Unit05.csproj",
+        "projectName": "Unit05",
+        "projectPath": "/Users/jamestaylor/Documents/Github/cse-210-8/snake_complete/Unit05.csproj",
         "packagesPath": "/Users/jamestaylor/.nuget/packages/",
-        "outputPath": "/Users/jamestaylor/Documents/Github/cse-210-8/gem_game/obj/",
+        "outputPath": "/Users/jamestaylor/Documents/Github/cse-210-8/snake_complete/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jamestaylor/.nuget/NuGet/NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "raylib-cs": {
+              "target": "Package",
+              "version": "[3.7.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
