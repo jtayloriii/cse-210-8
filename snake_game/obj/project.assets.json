@@ -125,11 +125,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jamestaylor/Documents/Github/cse-210-8/snake_complete/Unit05.csproj",
+      "projectUniqueName": "/Users/jamestaylor/Documents/Github/cse-210-8/snake_game/Unit05.csproj",
       "projectName": "Unit05",
-      "projectPath": "/Users/jamestaylor/Documents/Github/cse-210-8/snake_complete/Unit05.csproj",
+      "projectPath": "/Users/jamestaylor/Documents/Github/cse-210-8/snake_game/Unit05.csproj",
       "packagesPath": "/Users/jamestaylor/.nuget/packages/",
-      "outputPath": "/Users/jamestaylor/Documents/Github/cse-210-8/snake_complete/obj/",
+      "outputPath": "/Users/jamestaylor/Documents/Github/cse-210-8/snake_game/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jamestaylor/.nuget/NuGet/NuGet.Config"
