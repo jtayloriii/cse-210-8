@@ -1,6 +1,6 @@
 using Raylib_cs;
 using System.Numerics;
-class GameObject {
+class GameObject { //Initialzing objects with a position and velocity 
     public Vector2 Position { get; set; } = new Vector2(0, 0);
     public Vector2 Velocity { get; set; } = new Vector2(0, 0);
 
@@ -16,18 +16,15 @@ class GameObject {
     }
 }
 
-class ColoredObject: GameObject {
+class ColoredObject: GameObject { // Giving the objects colors
     public Color Color { get; set; }
 
     public ColoredObject(Color color) {
         Color = color;
     }
-    // override public void changeColor() {
-    //     Color = Color.RED;
-    // }
 }
 
-class GameSquare: ColoredObject {
+class GameSquare: ColoredObject { // Cgiving the squares a size
     public int Size { get; set; }
 
     public GameSquare(Color color, int size): base(color) {
@@ -37,12 +34,9 @@ class GameSquare: ColoredObject {
     override public void Draw() {
         Raylib.DrawRectangle((int)Position.X, (int)Position.Y, Size, Size, Color);
     }
-    // override public void changeColor() {
-    //     Color = Color.RED;
-    // }
 }
 
-class GameProjectile : ColoredObject {
+class GameProjectile : ColoredObject { // giving shot projectiles a size
     public int Size { get; set; }
 
     public GameProjectile(Color color, int size): base(color) {
@@ -54,7 +48,7 @@ class GameProjectile : ColoredObject {
     }
 }
 
-class GameCircle: ColoredObject {
+class GameCircle: ColoredObject { // giving the circles (saucers) a size
 
     public int Radius { get; set; }
 
@@ -66,7 +60,7 @@ class GameCircle: ColoredObject {
     }
 }
 
-class Player 
+class Player // keeping track of the score on the upper left hand corner
 {
     public int points = 0;
 
